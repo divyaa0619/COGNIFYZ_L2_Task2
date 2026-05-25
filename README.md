@@ -55,4 +55,7 @@
 
    <img width="646" height="305" alt="image" src="https://github.com/user-attachments/assets/d51bcfff-1a97-4b6c-be96-1556a00d729e" />
 
+   **📈 Average Rating Visualization**
+
+   <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/cd9838de-cec0-4b70-9c59-abbc77613262" />
 
