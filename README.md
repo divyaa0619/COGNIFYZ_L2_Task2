@@ -59,3 +59,9 @@
 
    <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/cd9838de-cec0-4b70-9c59-abbc77613262" />
 
+   **🎨 Rating Color Analysis
+**
+
+   <img width="763" height="304" alt="image" src="https://github.com/user-attachments/assets/fe2bf583-7d42-4c91-a568-ed986257a45d" />
+
+
