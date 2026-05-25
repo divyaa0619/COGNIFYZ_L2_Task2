@@ -64,4 +64,7 @@
 
    <img width="763" height="304" alt="image" src="https://github.com/user-attachments/assets/fe2bf583-7d42-4c91-a568-ed986257a45d" />
 
+    **🏆 Highest Rating & Color Output
 
+**
+   <img width="764" height="344" alt="image" src="https://github.com/user-attachments/assets/2708bb79-2b77-440d-9ec1-dfdd9c5b68f4" />
