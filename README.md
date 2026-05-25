@@ -51,3 +51,8 @@
 
    <img width="607" height="216" alt="image" src="https://github.com/user-attachments/assets/539af281-453e-4f21-af4d-c63d3144ef8f" />
 
+   **⭐ Average Ratings by Price Range**
+
+   <img width="646" height="305" alt="image" src="https://github.com/user-attachments/assets/d51bcfff-1a97-4b6c-be96-1556a00d729e" />
+
+
