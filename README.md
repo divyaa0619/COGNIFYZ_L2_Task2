@@ -46,5 +46,8 @@
 
   <img width="560" height="389" alt="image" src="https://github.com/user-attachments/assets/b6af8efd-2e77-4d88-8a81-0581dc2ccd7b" />
 
+  **📊 Most Common Price Range
+**
 
+   <img width="607" height="216" alt="image" src="https://github.com/user-attachments/assets/539af281-453e-4f21-af4d-c63d3144ef8f" />
 
